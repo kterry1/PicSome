@@ -11,7 +11,7 @@
 
 This is a repository for the PicSome application where you can buy pictures online.
 
-**The ordering process is just for the UI and you are not actually buying pictures when selecting the Order button.**
+**The ordering process is just for the UI and you are not actually buying pictures when selecting the _Place Order_ button.**
 
 ### Liking Images
 
@@ -23,7 +23,7 @@ Each picture can be liked by clicking on the heart icon(in the top-left of the i
 
 Adding images to the cart is very similar to liking an image. Each image has a cart icon in the top right of the image. Clicking this cart icon will add that image to the checkout cart.
 
-![Video of adding images to the checkout cart via the cart icon](https://p35.f2.n0.cdn.getcloudapp.com/items/xQuW9rlX/Screen%20Recording%202020-04-19%20at%2003.57.05.26%20PM.gif?v=fe1d60730494fd00168a48523aea5447)
+![Video of adding images to the checkout cart via the cart icon](./gifs/ezgif.com-resize.gif)
 
 ## Checking Out
 
@@ -33,4 +33,4 @@ Once you are ready to buy the images, click Place Order and the order button wil
 
 You can then click PicSome on the navbar to get back to the main images page.
 
-![Video of checking out via the checkout button in the navbar](https://p35.f2.n0.cdn.getcloudapp.com/items/L1u7zmPX/Screen%20Recording%202020-04-19%20at%2004.00.03.83%20PM.gif?v=1fce9c085b06d5c2490921ce3b05b363)
+![Video of checking out via the checkout button in the navbar](./gifs/ezgif.com-final.gif)
