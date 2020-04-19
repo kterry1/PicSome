@@ -17,7 +17,7 @@ This is a repository for the PicSome application where you can buy pictures onli
 
 Each picture can be liked by clicking on the heart icon(in the top-left of the image) when hovering over any pictures.
 
-![Video of liking images via the heart icon](../picsome/gifs/ezgif.com-optimize.gif)
+![Video of liking images via the heart icon](./gifs/ezgif.com-optimize.gif)
 
 ## Adding Images to the Checkout Cart
 
