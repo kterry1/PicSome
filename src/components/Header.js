@@ -6,7 +6,7 @@ export default function Header() {
   const { cartItems } = useContext(PictureContext);
   return (
     <header>
-      <Link to="/">
+      <Link to="/PicSome">
         <h2>Pic Some</h2>
       </Link>
       <Link to="/cart">

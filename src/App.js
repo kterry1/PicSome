@@ -9,7 +9,7 @@ export default function App() {
     <div>
       <Header />
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/PicSome">
           <Photos />
         </Route>
         <Route exact path="/cart">
