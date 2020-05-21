@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import React, { useContext } from "react";
 import PropTypes from "prop-types";
 import { PictureContext } from "../pictureContext";
 import useHover from "../hooks/useHover";
@@ -14,7 +14,7 @@ export default function CartItem({ item }) {
         className={iconClassName}
         ref={ref}
       ></i>
-      <img src={item.url} width="130px" />
+      <img alt="picture available to buy" src={item.url} width="130px" />
       <p>$5.99</p>
     </div>
   );
